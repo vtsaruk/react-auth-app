@@ -6,7 +6,7 @@
 
 run less api server
 
-### `node ./apiServer.js`
+### `npm run start:api-server`
 
 In the project directory, you can run:
 
