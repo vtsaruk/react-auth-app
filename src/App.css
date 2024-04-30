@@ -1,0 +1,14 @@
+input:-internal-autofill-selected {
+  appearance: menulist-button;
+  background-image: none !important;
+  background-color: white !important;
+  color: inherit !important;
+}
+
+form {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
